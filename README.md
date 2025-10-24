@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Mehemmed-Cf
-- 👀 I’m interested in Programming and Cyber ​​Security
-- 🌱 I’m currently learning Backend programming
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hello, I’m Mahammad Jafarli
+- 👀 I’m Passionate about Programming and Cyber ​​Security
+- 🌱 I’m currently advancing my Backend programming skills
+- 💼 Seeking collaboration opportunities where I can contribute and grow
 - 📫 How to reach me mehemmed.cf@gmail.com / mahammadfj@code.edu.az
-- 😄 Pronouns: 
 - ⚡ Fun fact: I love Playing Video games 
 
 <!---
