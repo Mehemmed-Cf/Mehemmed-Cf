@@ -2,7 +2,7 @@
 - 👀 I’m Passionate about Programming and Cyber ​​Security
 - 🌱 I’m currently advancing my Backend programming skills
 - 💼 Seeking collaboration opportunities where I can contribute and grow
-- 📫 How to reach me mehemmed.cf@gmail.com / mahammadfj@code.edu.az
+- 📫 Reach me a mehemmed.cf@gmail.com / mahammadfj@code.edu.az
 - ⚡ Fun fact: I enjoy Playing Video games in my downtime
 
 <!---
