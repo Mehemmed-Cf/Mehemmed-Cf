@@ -11,7 +11,6 @@ Backend developer studying Information Technology at Azerbaijan Technical Univer
 - 🎓 **B.Sc. Information Technology** — Azerbaijan Technical University *(2025 – Present)*
 - 🏫 **Software Development** — Code Academy *(2023 – 2024)*
 - 🔭 **Current Focus:** Backend architecture, .NET ecosystem
-- 🌱 **Learning:** PostgreSQL, Apache Kafka, distributed systems
 - 🤝 **Open to:** Internships and collaborations
 - 📧 **Contact:** mehemmed.cf@gmail.com
 
