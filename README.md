@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-Backend developer and cybersecurity enthusiast studying Information Technology at Azerbaijan Technical University. I build production-ready APIs and full-stack applications using C# and .NET, with a growing focus on AI-powered tools and secure system design.
+Backend developer and cybersecurity enthusiast studying Information Technology at Azerbaijan Technical University. I build production-ready APIs and full-stack applications using C# and .NET, with a growing interest in AI-powered tools and secure system design.
 
 - 🎓 **B.Sc. Information Technology** — Azerbaijan Technical University *(2025 – Present)*
 - 🏫 **Software Development** — Code Academy *(2023 – 2024)*
-- 🔭 **Current Focus:** Backend architecture, .NET ecosystem, AI integrations
+- 🔭 **Current Focus:** Backend architecture, .NET ecosystem
 - 🌱 **Learning:** PostgreSQL, Apache Kafka, distributed systems
-- 🤝 **Open to:** Internships, collaborations, and open-source contributions
+- 🤝 **Open to:** Internships and collaborations
 - 📧 **Contact:** mehemmed.cf@gmail.com
 
 ---
@@ -24,14 +24,16 @@ Backend developer and cybersecurity enthusiast studying Information Technology a
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Architecture**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR%2FCQRS-6C3483?style=for-the-badge&logoColor=white)
+![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-6C3483?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Databases & Tools**
 
@@ -40,57 +42,38 @@ Backend developer and cybersecurity enthusiast studying Information Technology a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI & Integrations**
-
-![Claude](https://img.shields.io/badge/Claude_Sonnet-D97706?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LLaMA-00A67E?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ---
 
-## 🔥 Featured Projects
+## 💼 Experience
 
 ### 🛡️ VEXOR — AI Phishing Detection Platform
 > *Build with AI Hackathon — Holberton School · March 2026*
 
-**First localized cybersecurity platform for Azerbaijan** targeting a 6M AZN phishing crisis
-
-- 🤖 Powered by **Groq LLaMA 3.3 70B** + **DistilBERT** for real-time threat detection
-- 🏛️ Integrated **opendata.az API** to validate senders against 164 official government entities
-- 🎯 Built a **weighted scoring system** for .az domain trust verification
-- 🔬 **Vexor Drill** feature generates context-aware phishing simulations in Azerbaijani & Russian
+- Built the first localized cybersecurity platform for Azerbaijan targeting a 6M AZN phishing crisis
+- Used **Groq LLaMA 3.3 70B** and **DistilBERT** for real-time threat detection
+- Integrated **opendata.az API** to validate senders against 164 official government entities
+- Created a weighted scoring system for .az domain trust verification
+- Built **Vexor Drill** using FastAPI and LLMs to generate phishing simulations in Azerbaijani & Russian
 
 ---
 
-### 📊 SEOmentor — AI Roadmap Generator
+### 📊 SEOmentor — AI SEO Roadmap Generator
 > *Cursor Hackathon Baku · February 2026*
 
-**Full-stack SEO analysis tool** that generates 30-day execution roadmaps from live site crawls
-
-- ⚡ Built with **React 19** + **Claude Sonnet** + **FastAPI**
-- 🔍 Multi-stage pipeline with **BeautifulSoup4** extracting 20+ SEO signals
-- 📈 Identifies keyword gaps and competitor advantages automatically
-- 🚀 40% faster development velocity using Cursor AI-native workflows
+- Engineered a full-stack SEO analysis tool generating 30-day execution roadmaps from live site crawls
+- Built with **React 19**, **Claude Sonnet**, **FastAPI**, and **BeautifulSoup4**
+- Multi-stage pipeline extracting 20+ SEO signals, identifying keyword gaps automatically
+- Optimized development velocity by 40% using Cursor AI-native workflows
 
 ---
 
 ### 🛒 NFT Marketplace & Online Shopping App
 > *Code Academy Projects · 2023–2024*
 
-- 🔐 JWT auth + role-based authorization with **ASP.NET Identity**
-- 🏗️ **CQRS** architecture using MediatR + Onion Architecture
-- 🛢️ SQL Server + Entity Framework ORM for data modeling
-- 🧩 Dependency Injection with AutoFac for modular services
-
----
-
-## 🏆 Achievements
-
-| Award | Result | Year |
-|-------|--------|------|
-| 🤖 Build with AI — Google Developer Program | Attendee Badge | 2026 |
-| ⚡ Cursor Hackathon Baku | Participant | 2026 |
-| 🤝 Iddia Hackathon (AI Shopping Assistant) | Team Member | 2025 |
+- Full-stack apps with **ASP.NET MVC** backend and HTML/CSS/JS frontend
+- **JWT authentication** and role-based authorization with ASP.NET Identity
+- **CQRS** pattern with MediatR and Onion Architecture
+- SQL Server + Entity Framework ORM, Dependency Injection with AutoFac
 
 ---
 
