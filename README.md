@@ -2,7 +2,7 @@
 
 **Backend Developer · C# / .NET · Baku, Azerbaijan**
 
-- 🚀 Passionate about backend engineering and cybersecurity, currently advancing my .NET skills
+- 🚀 Passionate about backend engineering, currently advancing my .NET skills
 - 🎓 B.Sc. Information Technology @ Azerbaijan Technical University
 - 🏆 Hackathon participant — Iddia (AI shopping assistant) · Build with AI 2026 (Google Developer Program)
 - 💼 Open to collaboration and internship opportunities
