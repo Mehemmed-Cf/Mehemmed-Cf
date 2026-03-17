@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Backend developer and cybersecurity enthusiast studying Information Technology at Azerbaijan Technical University. I build production-ready APIs and full-stack applications using C# and .NET, with a growing interest in AI-powered tools and secure system design.
+Backend developer studying Information Technology at Azerbaijan Technical University. I build production-ready APIs and full-stack applications using C# and .NET, with a growing interest in AI-powered tools and secure system design.
 
 - 🎓 **B.Sc. Information Technology** — Azerbaijan Technical University *(2025 – Present)*
 - 🏫 **Software Development** — Code Academy *(2023 – 2024)*
